@@ -1,5 +1,3 @@
-# GazeDiff
-
 # GazeDiff: A radiologist visual attention guided diffusion model for zero-shot disease classification
 [Moinak Bhattacharya](), [Prateek Prasanna](https://prateekprasanna.com/)
 
