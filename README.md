@@ -1,5 +1,5 @@
 # GazeDiff: A radiologist visual attention guided diffusion model for zero-shot disease classification
-[Moinak Bhattacharya](), [Prateek Prasanna](https://prateekprasanna.com/)
+[Moinak Bhattacharya](https://sites.google.com/stonybrook.edu/moinakbhattacharya), [Prateek Prasanna](https://prateekprasanna.com/)
 
 Medical Imaging with Deep Learning ([MIDL 2024]([https://conferences.miccai.org/2022/en/](https://2024.midl.io))).
 
